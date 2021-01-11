@@ -22,6 +22,11 @@ a {
   -o-transition: all 0.4s ease-in-out;
 }
 
+#thumb{
+	width:330px;
+	height:180px;
+}
+
 a:hover {
   text-decoration: underline;
   color: #5f6b77;
@@ -362,11 +367,6 @@ a.dotted-link:hover {
 .experience .item .title .year {
   color: #999;
   font-weight: normal;
-}
-
-#thumb{
-	width:330px;
-	height:180px;
 }
 
 /* Git section */
