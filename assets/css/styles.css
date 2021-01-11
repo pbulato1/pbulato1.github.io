@@ -364,6 +364,11 @@ a.dotted-link:hover {
   font-weight: normal;
 }
 
+#thumb{
+	width:330px;
+	height:180px;
+}
+
 /* Git section */
 .github-graph {
   margin-bottom: 30px;
